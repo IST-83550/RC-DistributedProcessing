@@ -10,7 +10,7 @@ organization and make it easier to migrate any specific component to a different
 
 ## RUN THE CODE:
 
-#From the main directory:
+# From the main directory:
 
 CS:
 
@@ -24,7 +24,7 @@ user:
 
 > python user/user.py [-n CSname] [-p CSport]
 
-#Alternatively:
+# Alternatively:
 
 CS:
 
